@@ -1,3 +1,5 @@
+# Show operation from CRUDS using VIEW concept
+
 import mysql.connector
 conn = mysql.connector.connect(
     host = '138.68.140.83',
